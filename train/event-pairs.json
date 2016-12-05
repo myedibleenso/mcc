@@ -803,9 +803,9 @@
     "e2-trigger-end": 10,
     "e2-trigger-start": 9,
     "id": -1866361216,
-    "notes": "E1, impaired/ E2",
+    "notes": "",
     "paper-id": "PMC4381250",
-    "relation": "E1 precedes E2",
+    "relation": "None",
     "text": "Silencing of HIPK2 significantly reduced K382-p53 acetylation , impaired recruitment of p53 and p300 to apoptotic gene promoters , and decreased p53 apoptotic transcription ."
   },
   {
@@ -14352,9 +14352,9 @@
     "e2-trigger-end": 17,
     "e2-trigger-start": 16,
     "id": 472564079,
-    "notes": "E1 (bind) ... E2 (bind)",
+    "notes": "wrong bindings",
     "paper-id": "PMC2671034",
-    "relation": "E1 precedes E2",
+    "relation": "Bug",
     "text": "In this complex , DNA bound REST interacts with Sin3 and CoREST , each of which bind HDAC1 and HDAC2 to repress transcription ."
   },
   {
@@ -14435,7 +14435,7 @@
     "id": -1558625962,
     "notes": "E1 (bind) ... E2 (bind)",
     "paper-id": "PMC2671034",
-    "relation": "E1 precedes E2",
+    "relation": "Bug",
     "text": "In this complex , DNA bound REST interacts with Sin3 and CoREST , each of which bind HDAC1 and HDAC2 to repress transcription ."
   },
   {
