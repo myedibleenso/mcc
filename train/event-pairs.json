@@ -21100,7 +21100,7 @@
     "id": 398379516,
     "notes": "",
     "paper-id": "PMC2570545",
-    "relation": "E1 subsumes E2",
+    "relation": "E1 specifies E2",
     "text": "However , PLCgamma phosphorylation by the EGFR was not decreased upon cholesterol depletion , suggesting that the EGFR can still activate PLCgamma when it is delocalised from caveolae ."
   },
   {
@@ -23633,7 +23633,7 @@
     "id": -104769649,
     "notes": "",
     "paper-id": "PMC3804542",
-    "relation": "E2 subsumes E1",
+    "relation": "E2 specifies E1",
     "text": "In theory , C84A mutation in the extreme C-terminal region of the BIR domain can disrupt the Zn 2+  coordination sphere and subsequently inhibit the interactions between survivin and Smac and DIA-BLO .  Therefore , T34A and C84A survivin mutant may induce cancer cell death through two distinct mechanisms : ( 1 ) by forming a heterodimer with the wild-type survivin , leading to the reduced interaction with caspase-9 ; and ( 2 ) by reducing the interaction between survivin and Smac/DIABLO , leading to an increased binding between Smac/DIABLO and XIAP , resulting in the activity inhibition of XIAP ."
   },
   {
@@ -23767,7 +23767,7 @@
     "id": 2018990605,
     "notes": "",
     "paper-id": "PMC3804542",
-    "relation": "E2 subsumes E1",
+    "relation": "E2 specifies E1",
     "text": "In theory , C84A mutation in the extreme C-terminal region of the BIR domain can disrupt the Zn 2+  coordination sphere and subsequently inhibit the interactions between survivin and Smac and DIA-BLO .  Therefore , T34A and C84A survivin mutant may induce cancer cell death through two distinct mechanisms : ( 1 ) by forming a heterodimer with the wild-type survivin , leading to the reduced interaction with caspase-9 ; and ( 2 ) by reducing the interaction between survivin and Smac/DIABLO , leading to an increased binding between Smac/DIABLO and XIAP , resulting in the activity inhibition of XIAP ."
   },
   {
@@ -24156,7 +24156,7 @@
     "id": 1199572695,
     "notes": "",
     "paper-id": "PMC3296207",
-    "relation": "E1 subsumes E2",
+    "relation": "E1 specifies E2",
     "text": "Upon SFK mediated tyrosine phosphorylation of CDCP1 , PKCdelta forms a complex with CDCP1 and SFKs , is phosphorylated by SFKs and activated , leading to anoikis resistance [ XREF_BIBR ] .  Interestingly , CDCP1 phosphorylation by SFKs further activates SFKs and enhances metastasis in melanoma , indicating a \" feed-forward loop \" to maintain elevated activity of SFKs during tumor progression although the cause of the initial activation of SFKs is not clear [ XREF_BIBR , XREF_BIBR ] ."
   },
   {
@@ -24447,7 +24447,7 @@
     "id": 932129009,
     "notes": "",
     "paper-id": "PMC3444108",
-    "relation": "E1 subsumes E2",
+    "relation": "E1 specifies E2",
     "text": "This may explain why a small amount of fluorescent signal was observed on the membrane after the Raf1 and K-Ras-C 185s complexes formation .  Although the combination of Raf1 and K-RasC 185S in BiFC may not occur under physiological conditions , investigating this interaction under the special conditions of BiFC may provide new insights into the understanding of the cellular interaction between Raf1 and K-Ras ."
   },
   {
@@ -24969,7 +24969,7 @@
     "id": -2074980828,
     "notes": "",
     "paper-id": "PMC3804542",
-    "relation": "E1 subsumes E2",
+    "relation": "E1 specifies E2",
     "text": "In contrast , survivin binds to Smac/DIABLO and inhibits its pro apoptotic functions through releasing of XIAP from the Smac , DIABLO , and XIAP complex to inhibit various caspases .  In theory , C84A mutation in the extreme C-terminal region of the BIR domain can disrupt the Zn 2+  coordination sphere and subsequently inhibit the interactions between survivin and Smac and DIA-BLO ."
   },
   {
@@ -26242,7 +26242,7 @@
     "id": 1799391109,
     "notes": "",
     "paper-id": "PMC3270278",
-    "relation": "E1 subsumes E2",
+    "relation": "E1 specifies E2",
     "text": "Treatment of PC3 cells with sorafenib inhibited Src and AKT phosphorylation , correlating with an increase in Bim expression .  The mechanism by which sorafenib inhibits Src and AKT is elusive ."
   },
   {
@@ -27250,7 +27250,7 @@
     "id": 911904291,
     "notes": "",
     "paper-id": "PMC3246894",
-    "relation": "E2 subsumes E1",
+    "relation": "E2 specifies E1",
     "text": "Both NleH1 and NleH2 are also capable of binding RPS3 independent of their kinase activity ( XREF_BIBR ) .  Binding of EHEC NleH1 to RPS3 inhibits RPS3 phosphorylation by IKKbeta , which sequesters RPS3 in the cytoplasm and prevents its nuclear translocation , thereby disrupting transcriptional up-regulation of RPS3 dependent genes ( XREF_BIBR ) ."
   },
   {
@@ -28010,7 +28010,7 @@
     "id": 480138858,
     "notes": "",
     "paper-id": "PMC3444108",
-    "relation": "E2 subsumes E1",
+    "relation": "E2 specifies E1",
     "text": "This may explain why a small amount of fluorescent signal was observed on the membrane after the Raf1 and K-Ras-C 185s complexes formation .  Although the combination of Raf1 and K-RasC 185S in BiFC may not occur under physiological conditions , investigating this interaction under the special conditions of BiFC may provide new insights into the understanding of the cellular interaction between Raf1 and K-Ras ."
   },
   {
@@ -28475,7 +28475,7 @@
     "id": 305279672,
     "notes": "",
     "paper-id": "PMC3844930",
-    "relation": "E1 subsumes E2",
+    "relation": "E1 specifies E2",
     "text": "Mitochondrial GSK-3beta phosphorylates MCL-1 and VDAC amongst other mitochondrial targets ( XREF_BIBR , XREF_BIBR , XREF_BIBR ) .  GSK-3beta mediated phosphorylation of MCL-1 promoted its degradation and increased apoptosis ( XREF_BIBR ) , while phosphorylation of VDAC by GSK-3beta resulted in increased mitochondrial membrane permeability , again predisposing to apoptosis ( XREF_BIBR , XREF_BIBR ) ."
   },
   {
@@ -29225,7 +29225,7 @@
     "id": 2041972210,
     "notes": "",
     "paper-id": "PMC2671034",
-    "relation": "E2 subsumes E1",
+    "relation": "E2 specifies E1",
     "text": "In Drosophila , SMRTER interacts with the beta-propeller protein Ebi and TBL1 , which binds to HDAC3 and deacetylates histones associated with Snail target genes , leading to their transcriptional repression in the embryonic mesoderm [ XREF_BIBR ] .  The SMRTER and Ebi complex also acts in association with CSL in the Drosophila eye imaginal disc , where , intriguingly , it antagonises Notch mediated activation of charlatan , which encodes a homologue of the REST zinc finger protein [ XREF_BIBR ] ."
   },
   {
@@ -29341,7 +29341,7 @@
     "id": -1292247105,
     "notes": "",
     "paper-id": "PMC2671034",
-    "relation": "E2 subsumes E1",
+    "relation": "E2 specifies E1",
     "text": "In Drosophila , SMRTER interacts with the beta-propeller protein Ebi and TBL1 , which binds to HDAC3 and deacetylates histones associated with Snail target genes , leading to their transcriptional repression in the embryonic mesoderm [ XREF_BIBR ] .  The SMRTER and Ebi complex also acts in association with CSL in the Drosophila eye imaginal disc , where , intriguingly , it antagonises Notch mediated activation of charlatan , which encodes a homologue of the REST zinc finger protein [ XREF_BIBR ] ."
   },
   {
@@ -30116,7 +30116,7 @@
     "id": -504574403,
     "notes": "",
     "paper-id": "PMC2695278",
-    "relation": "E1 subsumes E2",
+    "relation": "E1 specifies E2",
     "text": "HK II effectively binds to the mitochondrial VDAC and this process is activated by protein kinase B or Akt ( PKB and Akt ) [ XREF_BIBR , XREF_BIBR , XREF_BIBR ] , which blocks the activity of glycogen synthase kinase 3beta ( GSK3beta ) , an inhibitor of HK binding to VDAC [ XREF_BIBR ] ."
   },
   {
